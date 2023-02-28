@@ -1,0 +1,15 @@
+Nav {
+    text-align: center;
+    
+    background-image: url('./images/SMT wallpaper 3.jpg');
+    font-size:4vh;
+    color: white !important;
+};
+
+.nav-link {
+    color:white !important;
+}
+
+.navbar-brand {
+    width: 200px;
+}
